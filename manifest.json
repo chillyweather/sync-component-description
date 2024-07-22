@@ -1,0 +1,10 @@
+{
+  "api": "1.0.0",
+  "editorType": [
+    "figma"
+  ],
+  "id": "component-description-sync",
+  "name": "Component Description Sync",
+  "main": "build/main.js",
+  "ui": "build/ui.js"
+}
